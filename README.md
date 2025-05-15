@@ -45,15 +45,18 @@ Then "Administrator account" and choose a username and password to remember (thi
 
 Now, go to networking at the top
 
-![image](https://github.com/user-attachments/assets/60a06dfb-5933-47bb-82a4-8b8f2d2c44a4)
+![image](https://github.com/user-attachments/assets/6879a7d8-91b9-488f-91eb-3c32aaac3b39)
+
 
 Then, hover your mouse over create new under "virtual network" and click (create new)
 
-![image](https://github.com/user-attachments/assets/ece42fb5-0d1f-43e9-a1ba-2415c359a189)
+![image](https://github.com/user-attachments/assets/b2aad0f5-545d-4a41-bdf2-f049cbc9d9af)
+
 
 Choose any name for the virtual network, in this case I chose "Lab1-testVnet"
 
-![image](https://github.com/user-attachments/assets/c11d41e8-8587-4ce8-84d3-cad0806e29bc)
+![image](https://github.com/user-attachments/assets/7b38a92b-b408-4d1b-bf82-d0ed6661399a)
+
 
 After doing that click create and you should get a "validation passed" sign at the top of your screen
 
