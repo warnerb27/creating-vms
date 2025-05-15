@@ -6,13 +6,15 @@ Creating a virtual machine in Microsoft Azure
 You first want to open Microsoft Azure and click "virtual machines'
 
 
-![image](https://github.com/user-attachments/assets/11d2f534-b85b-4727-88db-ab7b8b5e76d9)
+![image](https://github.com/user-attachments/assets/f519cca9-292c-4b0b-a075-55bece111023)
+
 
 
 
 Now click "Create" and select "Azure virtual machine"
 
-![image](https://github.com/user-attachments/assets/52e76096-2c94-49e8-b2af-fdab98ef43f9)
+![image](https://github.com/user-attachments/assets/ce7f1a21-4a5b-49b2-89a0-b88cb5b85242)
+
 
 Select a resource group that you have created in this case mine is "RG-Network-Activities"
 
