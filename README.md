@@ -6,7 +6,8 @@ Creating a virtual machine in Microsoft Azure
 You first want to open Microsoft Azure and click "virtual machines'
 
 
-![image](https://github.com/user-attachments/assets/d5c8f5d3-c721-40e7-ade3-8dcbc7018529)
+![image](https://github.com/user-attachments/assets/11d2f534-b85b-4727-88db-ab7b8b5e76d9)
+
 
 
 Now click "Create" and select "Azure virtual machine"
