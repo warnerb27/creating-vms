@@ -24,20 +24,24 @@ Select a resource group that you have created in this case mine is "RG-Network-A
 
 You then want to choose a name for your virtual machine in this case I just put "windows-vm" but it does not matter what name you choose really
 
-![image](https://github.com/user-attachments/assets/14b65801-f3c9-49e2-824c-c1df2006528d)
+![image](https://github.com/user-attachments/assets/d6783aed-5d85-4a97-959d-d68b1721bb85)
+
 
 Then now you can select the region you want (base it off of what region your resource group is under)
 and choose "Windows 10 Pro, version 22H2" if you want to run a windows virtual machine
 
-![image](https://github.com/user-attachments/assets/eb9db5b2-ad55-47f7-9bca-e6428ed04b88)
+![image](https://github.com/user-attachments/assets/bc380d2c-649a-47e1-bb79-d9fe4470df8e)
+
 
 Now choose the size for the virtual machine
 
-![image](https://github.com/user-attachments/assets/7e84839d-70b3-4ddb-84bf-5e15533ef4d9)
+![image](https://github.com/user-attachments/assets/6bbae703-1241-4d4c-afe9-832f149093a3)
+
 
 Then "Administrator account" and choose a username and password to remember (this will be needed when remotely connecting to the virtual machine) and don't forget to accept the rules about Windows Services in the checkbox!
 
-![image](https://github.com/user-attachments/assets/dcde2df3-6edc-4d6c-b3f3-859717c36598)
+![image](https://github.com/user-attachments/assets/b0b2a477-a42b-4bbf-b497-8bc6e8031b12)
+
 
 Now, go to networking at the top
 
