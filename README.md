@@ -18,7 +18,8 @@ Now click "Create" and select "Azure virtual machine"
 
 Select a resource group that you have created in this case mine is "RG-Network-Activities"
 
-![image](https://github.com/user-attachments/assets/a3e845e7-2df9-4242-b2d7-47632938b0d0)
+![image](https://github.com/user-attachments/assets/9d9c9e39-1955-41fa-af45-5f62bd921249)
+
 
 
 You then want to choose a name for your virtual machine in this case I just put "windows-vm" but it does not matter what name you choose really
